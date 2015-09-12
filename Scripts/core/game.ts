@@ -41,6 +41,6 @@ function main():void {
 	helloLabel.regX = helloLabel.getBounds().width * 0.5;
 	helloLabel.regY = helloLabel.getBounds().height * 0.5;
 	helloLabel.x = 320;
-	helloLabel.y = 240;
+	helloLabel.y = 245;
 	stage.addChild(helloLabel);
 }
